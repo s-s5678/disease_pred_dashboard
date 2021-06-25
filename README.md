@@ -1,2 +1,2 @@
 # Heart Disease Prediction
-User dashboard of disease prediction model
+User dashboard for disease prediction model
